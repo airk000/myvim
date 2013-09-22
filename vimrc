@@ -395,6 +395,7 @@ function! <SID>BufcloseCloseIt()
 endfunction
 set number
 set nowrap
+set ts=4
 
 let Tlist_Use_Horiz_Window = 0
 let Tlist_Use_Right_Window = 1
